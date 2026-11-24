@@ -46,7 +46,7 @@ Python · pandas · NumPy · scikit-learn · matplotlib / seaborn · Jupyter
 ## Repo contents
 | File | What it is |
 |---|---|
-| `Jia_D_03062025_copy_of_Capstone_Project_Reference_Notebook_Low_Code_Used_Cars_Price_Prediction.ipynb` | Full notebook: cleaning, EDA, modeling, tuning |
+| `Capstone_Project_Reference_Notebook_Low_Code_Used_Cars_Price_Prediction.ipynb` | Full notebook: cleaning, EDA, modeling, tuning |
 | `Used-Cars-Price-Prediction.pdf` | Final capstone report (submitted version) |
 | `Live_Presentation_Slides_-_Used_Cars_Price_Prediction.pdf` | Capstone presentation deck |
 | `data/` | Dataset or dataset notes |
